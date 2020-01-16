@@ -56,6 +56,7 @@ import java.util.Collections;
 
     public class CardGame {
         public static void main(String[] args) {
+
             Deck deck = new Deck();
             deck.shuffle();
             Player p1 = new Player();
